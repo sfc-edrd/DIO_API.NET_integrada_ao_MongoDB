@@ -1,0 +1,35 @@
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\global.json
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.exe
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.deps.json
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.runtimeconfig.json
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.runtimeconfig.dev.json
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.pdb
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.csprojAssemblyReference.cache
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.AssemblyInfoInputs.cache
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.AssemblyInfo.cs
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.RazorTargetAssemblyInfo.cache
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.csproj.CopyComplete
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\staticwebassets\API.NET integrada ao MongoDB.StaticWebAssets.Manifest.cache
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\staticwebassets\API.NET integrada ao MongoDB.StaticWebAssets.xml
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.dll
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.pdb
+C:\Users\eduardo.correa\source\repos\API.NET integrada ao MongoDB\obj\Debug\netcoreapp3.1\API.NET integrada ao MongoDB.genruntimeconfig.cache
